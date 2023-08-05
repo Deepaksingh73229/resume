@@ -1,0 +1,22 @@
+*{
+    margin: 5px;
+    background-color: rgba(235, 235, 222, 0.547);
+}
+
+#navbar{
+    display: flex;
+
+}
+
+#profile_photo{
+    width: 270px;
+    height: 270px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+
+image{
+    width: 200px;
+    height: 200px;
+}
